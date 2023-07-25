@@ -1,0 +1,23 @@
+{
+  "name": "anime-experiments",
+  "version": "1.0.0",
+  "description": "anime experiments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Rafter/anime-experiments.git"
+  },
+  "keywords": [
+    "anime.js",
+    "js"
+  ],
+  "author": "AR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Rafter/anime-experiments/issues"
+  },
+  "homepage": "https://github.com/Alex-Rafter/anime-experiments#readme"
+}
